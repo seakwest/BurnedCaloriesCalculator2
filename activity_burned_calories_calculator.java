@@ -84,7 +84,7 @@ public class activity_burned_calories_calculator extends AppCompatActivity {
         adapter.setDropDowViewResource(android.R.layout.simple_spinner_dropdown_item);
         inchesSPinner.setAdapter(inchesAdapter);
 
-
+//
 
 
 
